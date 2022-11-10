@@ -6,6 +6,7 @@
 xcuserdata/
 .DS_Store
 
+Derived/
 *.xcodeproj
 *.xcworkspace
 
